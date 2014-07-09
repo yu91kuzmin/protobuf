@@ -76,6 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DocumentId.pb.cc" />
     <ClCompile Include="proto_new.cpp" />
   </ItemGroup>
   <ItemGroup>

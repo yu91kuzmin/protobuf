@@ -1,15 +1,9 @@
-﻿Построение начато 09.07.2014 11:37:37.
-     1>Проект "C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\proto_new\proto_new.vcxproj" в узле 2 (целевые объекты Rebuild).
-     1>ClCompile:
-         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt proto_new.cpp
-         proto_new.cpp
-       Link:
-         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\Debug\proto_new.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\Debug\proto_new.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\Debug\proto_new.lib" /MACHINE:X86 Debug\proto_new.obj
-     1>proto_new.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Diadoc::Api::Proto::DocumentId::DocumentId(void)" (??0DocumentId@Proto@Api@Diadoc@@QAE@XZ) в функции _wmain
-     1>proto_new.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual __thiscall Diadoc::Api::Proto::DocumentId::~DocumentId(void)" (??1DocumentId@Proto@Api@Diadoc@@UAE@XZ) в функции _wmain
-     1>C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\Debug\proto_new.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
-     1>Построение проекта "C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\proto_new\proto_new.vcxproj" завершено (целевые объекты Rebuild) с ошибкой.
+﻿Построение начато 09.07.2014 12:26:30.
+     1>Проект "C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\proto_new\proto_new.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         proto_new.vcxproj -> C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\Debug\proto_new.exe
+     1>Построение проекта "C:\Users\Yury\documents\visual studio 2012\Projects\proto_new\proto_new\proto_new.vcxproj" завершено (целевые объекты Build).
 
-Сбой построения.
+Построение успешно завершено.
 
-Затраченное время: 00:00:04.40
+Затраченное время: 00:00:00.16

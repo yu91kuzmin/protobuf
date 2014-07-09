@@ -16,7 +16,8 @@ using namespace Diadoc::Api::Proto;
 int _tmain()
 {
 	DocumentId doc_id;
-	//getchar();
+	cout << "Hello word" << endl;
+	getchar();
 	return 0;
 }
 
